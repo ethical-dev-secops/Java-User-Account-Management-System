@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="d73cc9f3-12bb-4643-8ac0-ea3e3ec9c28b" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>models</name>
+  <display>models</display>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-type-then-by-name</sort-children>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>2f50b40f-0840-430e-8f6f-47d18c6c9792</parentFolderId>
+  <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+  <packageName>root</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements>
+    <childElement id="ee1ad65b-45fc-43fb-8850-47397f5b4c03" type="Template Output" typeId="09de2192-2507-41a2-8044-286c7ecadec2">
+      <name>Intent.Java.Domain.DomainModel</name>
+      <display>Intent.Java.Domain.DomainModel</display>
+      <externalReference>Intent.Java.Domain</externalReference>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>d73cc9f3-12bb-4643-8ac0-ea3e3ec9c28b</parentFolderId>
+      <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+      <packageName>root</packageName>
+      <stereotypes />
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+      <childElements />
+    </childElement>
+    <childElement id="659df9ae-c025-4025-8e2b-d5ba4e5f5d86" type="Template Output" typeId="09de2192-2507-41a2-8044-286c7ecadec2">
+      <name>Intent.Java.Domain.Enum</name>
+      <display>Intent.Java.Domain.Enum</display>
+      <externalReference>Intent.Java.Domain</externalReference>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>d73cc9f3-12bb-4643-8ac0-ea3e3ec9c28b</parentFolderId>
+      <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+      <packageName>root</packageName>
+      <stereotypes />
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+      <childElements />
+    </childElement>
+    <childElement id="6f4e83eb-4850-48ea-8644-179baddd0a96" type="Template Output" typeId="09de2192-2507-41a2-8044-286c7ecadec2">
+      <name>Intent.Java.Persistence.JPA.CompositeId</name>
+      <display>Intent.Java.Persistence.JPA.CompositeId</display>
+      <externalReference>Intent.Java.Persistence.JPA</externalReference>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>d73cc9f3-12bb-4643-8ac0-ea3e3ec9c28b</parentFolderId>
+      <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+      <packageName>root</packageName>
+      <stereotypes />
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+      <childElements />
+    </childElement>
+  </childElements>
+</class>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="18bfeef4-5515-41a2-901b-f964b645a003" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>src</name>
+  <display>src</display>
+  <externalReference>4340b86c-cbb5-412f-8227-38d7ec4b83ca</externalReference>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-type-then-by-name</sort-children>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>b236e223-2eb4-455e-b3c5-1960f7c91eae</parentFolderId>
+  <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+  <packageName>root</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements />
+</class>

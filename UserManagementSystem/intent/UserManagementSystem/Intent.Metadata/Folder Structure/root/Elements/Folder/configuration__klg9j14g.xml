@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="dea197fe-79e3-4013-8a19-1bef1c8d2343" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>configuration</name>
+  <display>configuration</display>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-type-then-by-name</sort-children>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>148de758-7c04-4dd1-aa5f-008dcba12723</parentFolderId>
+  <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+  <packageName>root</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements>
+    <childElement id="85277565-cacc-4fc0-bb8e-fccbbc46ed72" type="Template Output" typeId="09de2192-2507-41a2-8044-286c7ecadec2">
+      <name>Intent.Java.ModelMapper.ModelMapperBean</name>
+      <display>Intent.Java.ModelMapper.ModelMapperBean</display>
+      <externalReference>Intent.Java.ModelMapper</externalReference>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>dea197fe-79e3-4013-8a19-1bef1c8d2343</parentFolderId>
+      <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+      <packageName>root</packageName>
+      <stereotypes />
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+      <childElements />
+    </childElement>
+  </childElements>
+</class>

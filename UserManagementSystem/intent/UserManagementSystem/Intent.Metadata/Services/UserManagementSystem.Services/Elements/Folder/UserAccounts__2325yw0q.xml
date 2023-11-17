@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="2a1d5f1e-9b83-4c2d-b324-693d792d5933" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>UserAccounts</name>
+  <display>UserAccounts</display>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-type-then-by-name</sort-children>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>e03b1d0f-449b-4bd0-9b43-2100ad15753e</parentFolderId>
+  <packageId>e03b1d0f-449b-4bd0-9b43-2100ad15753e</packageId>
+  <packageName>UserManagementSystem.Services</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements />
+</class>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="fbb7ecaa-3be6-4a76-b3dd-4edcd46bd85c" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>Addresses</name>
+  <display>Addresses</display>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-type-then-by-name</sort-children>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>e03b1d0f-449b-4bd0-9b43-2100ad15753e</parentFolderId>
+  <packageId>e03b1d0f-449b-4bd0-9b43-2100ad15753e</packageId>
+  <packageName>UserManagementSystem.Services</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements />
+</class>

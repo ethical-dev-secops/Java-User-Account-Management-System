@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="10183531-8e08-4862-8aee-59af36fdda27" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>UserManagementSystem</name>
+  <display>UserManagementSystem</display>
+  <externalReference>ccecf323-5f4d-4195-b47a-45f264eeb0ac</externalReference>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-type-then-by-name</sort-children>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>71224b11-fadb-4f11-8f0c-1e54d05752a0</parentFolderId>
+  <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+  <packageName>root</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements />
+</class>

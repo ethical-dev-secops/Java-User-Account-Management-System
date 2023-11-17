@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="2f50b40f-0840-430e-8f6f-47d18c6c9792" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>domain</name>
+  <display>domain</display>
+  <externalReference>07f4851b-3996-4b65-963c-ca6a87cb00dc</externalReference>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-type-then-by-name</sort-children>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>148de758-7c04-4dd1-aa5f-008dcba12723</parentFolderId>
+  <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+  <packageName>root</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements>
+    <childElement id="80b1a206-acd8-4998-83bf-64cbdc57e9ed" type="Role" typeId="8663c9f9-2852-45e7-aaa1-0883a2e6f1da">
+      <name>Domain</name>
+      <display>Domain</display>
+      <externalReference>fb61de22-23eb-4dd4-9f84-3dd274bfe3d5</externalReference>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>2f50b40f-0840-430e-8f6f-47d18c6c9792</parentFolderId>
+      <packageId>b236e223-2eb4-455e-b3c5-1960f7c91eae</packageId>
+      <packageName>root</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+  </childElements>
+</class>
