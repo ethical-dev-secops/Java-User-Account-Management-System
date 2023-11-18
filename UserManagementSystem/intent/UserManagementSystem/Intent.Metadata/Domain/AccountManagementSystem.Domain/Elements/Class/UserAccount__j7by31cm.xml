@@ -8,7 +8,7 @@
   <isMapped>false</isMapped>
   <parentFolderId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</parentFolderId>
   <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-  <packageName>UserManagementSystem.Domain</packageName>
+  <packageName>AccountManagementSystem.Domain</packageName>
   <stereotypes />
   <metadata />
   <childElements>
@@ -31,7 +31,7 @@
       <isMapped>false</isMapped>
       <parentFolderId>8e30f0ea-8996-43f1-b569-a95a02f51191</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="b99aac21-9ca4-467f-a3a6-046255a9eed6" name="Primary Key">
           <addedByDefault>false</addedByDefault>

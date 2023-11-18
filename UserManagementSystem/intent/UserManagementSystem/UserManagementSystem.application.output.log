@@ -260,6 +260,14 @@
     </FileLog>
     <FileLog>
       <ProjectId>af9faff1-d3bc-4ae9-a245-48134c520371</ProjectId>
+      <CorrelationId>Intent.Java.Spring.Data.Repositories.EntityRepository#71981ccf-787f-499d-8fd4-d58a893fb795</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../UserManagementSystem/src/main/java/com/UserManagementSystem/UserManagementSystem/data/ProductRepository.java</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>ProductRepository.java</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>af9faff1-d3bc-4ae9-a245-48134c520371</ProjectId>
       <CorrelationId>Intent.Java.Spring.Data.Repositories.EntityRepository#8e30f0ea-8996-43f1-b569-a95a02f51191</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../UserManagementSystem/src/main/java/com/UserManagementSystem/UserManagementSystem/data/UserAccountRepository.java</ApplicationRelativeFilePath>
@@ -288,6 +296,14 @@
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../UserManagementSystem/src/main/java/com/UserManagementSystem/UserManagementSystem/domain/models/Address.java</ApplicationRelativeFilePath>
       <ProjectRelativeFilePath>Address.java</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>d73cc9f3-12bb-4643-8ac0-ea3e3ec9c28b</ProjectId>
+      <CorrelationId>Intent.Java.Domain.DomainModel#71981ccf-787f-499d-8fd4-d58a893fb795</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../UserManagementSystem/src/main/java/com/UserManagementSystem/UserManagementSystem/domain/models/Product.java</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Product.java</ProjectRelativeFilePath>
       <IsIgnored>false</IsIgnored>
     </FileLog>
     <FileLog>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<class id="64772e87-123b-4921-9846-cbc2da5e17cc" type="Class" typeId="04e12b51-ed12-42a3-9667-a6aa81bb6d10">
-  <name>UserGroup</name>
-  <display>UserGroup</display>
+<class id="5f54ec1a-01ac-4b7a-a186-2370ee07fc51" type="Class" typeId="04e12b51-ed12-42a3-9667-a6aa81bb6d10">
+  <name>UserDetails</name>
+  <display>UserDetails</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
   <genericTypes />
   <isMapped>false</isMapped>
   <parentFolderId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</parentFolderId>
   <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-  <packageName>UserManagementSystem.Domain</packageName>
+  <packageName>AccountManagementSystem.Domain</packageName>
   <stereotypes />
   <metadata />
   <childElements>
-    <childElement id="0d857207-2ffa-4e31-8644-6bb2fbf5dc05" type="Attribute" typeId="0090fb93-483e-41af-a11d-5ad2dc796adf">
+    <childElement id="79ac2ad3-d123-4ed0-b409-80ae8ac10153" type="Attribute" typeId="0090fb93-483e-41af-a11d-5ad2dc796adf">
       <name>id</name>
       <display>id: guid</display>
       <isAbstract>false</isAbstract>
       <genericTypes />
-      <typeReference id="235026cb-4fbe-434b-abec-0421ce7fea12">
+      <typeReference id="2d784a70-c8f5-4cdf-9c0b-235683bff446">
         <typeId>6b649125-18ea-48fd-a6ba-0bfff0d8f488</typeId>
         <isNavigable>true</isNavigable>
         <isNullable>false</isNullable>
@@ -29,9 +29,9 @@
         <genericTypeParameters />
       </typeReference>
       <isMapped>false</isMapped>
-      <parentFolderId>64772e87-123b-4921-9846-cbc2da5e17cc</parentFolderId>
+      <parentFolderId>5f54ec1a-01ac-4b7a-a186-2370ee07fc51</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="b99aac21-9ca4-467f-a3a6-046255a9eed6" name="Primary Key">
           <addedByDefault>false</addedByDefault>
@@ -47,12 +47,12 @@
       </metadata>
       <childElements />
     </childElement>
-    <childElement id="b664b957-16ad-4ad5-a97c-6fe713fb2e03" type="Attribute" typeId="0090fb93-483e-41af-a11d-5ad2dc796adf">
-      <name>groupName</name>
-      <display>groupName: string</display>
+    <childElement id="42458968-78f2-43f2-8809-9e40622d6784" type="Attribute" typeId="0090fb93-483e-41af-a11d-5ad2dc796adf">
+      <name>name</name>
+      <display>name: string</display>
       <isAbstract>false</isAbstract>
       <genericTypes />
-      <typeReference id="ed9f3d2b-6e16-4106-af08-7b52482c7a97">
+      <typeReference id="0573a410-54da-42fe-820e-77664059ae89">
         <typeId>d384db9c-a279-45e1-801e-e4e8099625f2</typeId>
         <isNavigable>true</isNavigable>
         <isNullable>false</isNullable>
@@ -64,9 +64,9 @@
         <genericTypeParameters />
       </typeReference>
       <isMapped>false</isMapped>
-      <parentFolderId>64772e87-123b-4921-9846-cbc2da5e17cc</parentFolderId>
+      <parentFolderId>5f54ec1a-01ac-4b7a-a186-2370ee07fc51</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="6347286E-A637-44D6-A5D7-D9BE5789CA7A" name="Text Constraints">
           <addedByDefault>false</addedByDefault>
@@ -82,12 +82,47 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="3c59ef61-293f-49df-b254-68943a7ab92a" type="Attribute" typeId="0090fb93-483e-41af-a11d-5ad2dc796adf">
+    <childElement id="2111c849-3bf3-46cc-855b-5c7f5c104ab7" type="Attribute" typeId="0090fb93-483e-41af-a11d-5ad2dc796adf">
+      <name>lastname</name>
+      <display>lastname: string</display>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <typeReference id="d2e90490-c134-41f0-8d21-0c1288b583be">
+        <typeId>d384db9c-a279-45e1-801e-e4e8099625f2</typeId>
+        <isNavigable>true</isNavigable>
+        <isNullable>false</isNullable>
+        <isCollection>false</isCollection>
+        <isRequired>true</isRequired>
+        <typePackageName>Intent.Common.Types</typePackageName>
+        <typePackageId>870ad967-cbd4-4ea9-b86d-9c3a5d55ea67</typePackageId>
+        <stereotypes />
+        <genericTypeParameters />
+      </typeReference>
+      <isMapped>false</isMapped>
+      <parentFolderId>5f54ec1a-01ac-4b7a-a186-2370ee07fc51</parentFolderId>
+      <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
+      <packageName>AccountManagementSystem.Domain</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="6347286E-A637-44D6-A5D7-D9BE5789CA7A" name="Text Constraints">
+          <addedByDefault>false</addedByDefault>
+          <definitionPackageName>Intent.Metadata.RDBMS</definitionPackageName>
+          <definitionPackageId>AF8F3810-745C-42A2-93C8-798860DC45B1</definitionPackageId>
+          <properties>
+            <property name="1288cfcd-ee51-437e-9713-73b80118f026" display="SQL Data Type" value="DEFAULT" isActive="true" />
+            <property name="A04CC24D-81FB-4EA2-A34A-B3C58E04DCFD" display="MaxLength" value="30" isActive="true" />
+            <property name="67EC4CF4-7706-4B39-BC7C-DF539EE2B0AF" display="IsUnicode" value="false" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="e005bccd-e619-40f0-9800-ed20ad170b91" type="Attribute" typeId="0090fb93-483e-41af-a11d-5ad2dc796adf">
       <name>userAccountId</name>
       <display>userAccountId: guid</display>
       <isAbstract>false</isAbstract>
       <genericTypes />
-      <typeReference id="29af8201-ffe9-43ae-a723-4051e202e0cb">
+      <typeReference id="2534c487-471c-474b-aae3-d9f62e2b3a00">
         <typeId>6b649125-18ea-48fd-a6ba-0bfff0d8f488</typeId>
         <isNavigable>true</isNavigable>
         <isNullable>false</isNullable>
@@ -99,22 +134,22 @@
         <genericTypeParameters />
       </typeReference>
       <isMapped>false</isMapped>
-      <parentFolderId>64772e87-123b-4921-9846-cbc2da5e17cc</parentFolderId>
+      <parentFolderId>5f54ec1a-01ac-4b7a-a186-2370ee07fc51</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="793a5128-57a1-440b-a206-af5722b752a6" name="Foreign Key">
           <addedByDefault>false</addedByDefault>
           <definitionPackageName>Intent.Metadata.RDBMS</definitionPackageName>
           <definitionPackageId>AF8F3810-745C-42A2-93C8-798860DC45B1</definitionPackageId>
           <properties>
-            <property name="42e4f9b5-f834-4e5f-86aa-d3a35c505076" display="Association" value="8297243a-7ff4-478e-97b2-3ed26f4f8190" isActive="true" />
+            <property name="42e4f9b5-f834-4e5f-86aa-d3a35c505076" display="Association" value="86251903-8956-4747-87b7-1adf4dc03df2" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
       <metadata>
         <entry key="fk-original-name" value="userAccountId" />
-        <entry key="association" value="8297243a-7ff4-478e-97b2-3ed26f4f8190" />
+        <entry key="association" value="86251903-8956-4747-87b7-1adf4dc03df2" />
         <entry key="is-managed-key" value="true" />
       </metadata>
       <childElements />

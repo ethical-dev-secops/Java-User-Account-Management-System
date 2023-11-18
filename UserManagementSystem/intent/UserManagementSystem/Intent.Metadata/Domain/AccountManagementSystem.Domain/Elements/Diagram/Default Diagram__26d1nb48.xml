@@ -8,7 +8,7 @@
   <isMapped>false</isMapped>
   <parentFolderId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</parentFolderId>
   <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-  <packageName>UserManagementSystem.Domain</packageName>
+  <packageName>AccountManagementSystem.Domain</packageName>
   <diagram>
     <targetPackageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</targetPackageId>
   </diagram>

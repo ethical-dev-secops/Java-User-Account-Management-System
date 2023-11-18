@@ -8,7 +8,7 @@
   <isMapped>false</isMapped>
   <parentFolderId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</parentFolderId>
   <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-  <packageName>UserManagementSystem.Domain</packageName>
+  <packageName>AccountManagementSystem.Domain</packageName>
   <stereotypes />
   <metadata />
   <childElements>
@@ -31,7 +31,7 @@
       <isMapped>false</isMapped>
       <parentFolderId>cd8fb5f2-39c6-4da5-a40e-4f311f877cbc</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="b99aac21-9ca4-467f-a3a6-046255a9eed6" name="Primary Key">
           <addedByDefault>false</addedByDefault>
@@ -66,7 +66,7 @@
       <isMapped>false</isMapped>
       <parentFolderId>cd8fb5f2-39c6-4da5-a40e-4f311f877cbc</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="6347286E-A637-44D6-A5D7-D9BE5789CA7A" name="Text Constraints">
           <addedByDefault>false</addedByDefault>
@@ -101,7 +101,7 @@
       <isMapped>false</isMapped>
       <parentFolderId>cd8fb5f2-39c6-4da5-a40e-4f311f877cbc</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="6347286E-A637-44D6-A5D7-D9BE5789CA7A" name="Text Constraints">
           <addedByDefault>false</addedByDefault>
@@ -136,7 +136,7 @@
       <isMapped>false</isMapped>
       <parentFolderId>cd8fb5f2-39c6-4da5-a40e-4f311f877cbc</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="6347286E-A637-44D6-A5D7-D9BE5789CA7A" name="Text Constraints">
           <addedByDefault>false</addedByDefault>
@@ -171,7 +171,7 @@
       <isMapped>false</isMapped>
       <parentFolderId>cd8fb5f2-39c6-4da5-a40e-4f311f877cbc</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="6347286E-A637-44D6-A5D7-D9BE5789CA7A" name="Text Constraints">
           <addedByDefault>false</addedByDefault>
@@ -206,7 +206,7 @@
       <isMapped>false</isMapped>
       <parentFolderId>cd8fb5f2-39c6-4da5-a40e-4f311f877cbc</parentFolderId>
       <packageId>9f916dac-9f64-416e-9b13-ac1a3d5d37e4</packageId>
-      <packageName>UserManagementSystem.Domain</packageName>
+      <packageName>AccountManagementSystem.Domain</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="793a5128-57a1-440b-a206-af5722b752a6" name="Foreign Key">
           <addedByDefault>false</addedByDefault>
